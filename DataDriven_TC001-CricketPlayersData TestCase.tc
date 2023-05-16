@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DataDriven_TC001-CricketPlayersData TestCase</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1414c44b-8d40-43f1-be01-6576dbcf5419</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7c85ced6-bf7d-47d3-9f81-1c3bed34f109</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7c85ced6-bf7d-47d3-9f81-1c3bed34f109</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+</TestCaseEntity>

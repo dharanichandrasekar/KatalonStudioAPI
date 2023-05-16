@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DataDriven_TC003-MultipleData TestCase</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9721283c-d911-4a30-83aa-67b096b354cb</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4072c831-aff8-4c8e-95eb-f7b9476bb386</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0b3933de-ea39-414d-a651-88dad37f50ee</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>98a3f0ba-f667-4fe2-bbc7-4a3c2dfa10bb</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4072c831-aff8-4c8e-95eb-f7b9476bb386</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>0b3933de-ea39-414d-a651-88dad37f50ee</id>
+      <masked>false</masked>
+      <name>salary</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>98a3f0ba-f667-4fe2-bbc7-4a3c2dfa10bb</id>
+      <masked>false</masked>
+      <name>age</name>
+   </variable>
+</TestCaseEntity>

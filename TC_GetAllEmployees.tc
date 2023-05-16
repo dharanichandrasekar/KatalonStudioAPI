@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_GetAllEmployees</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d61f0589-f2b1-46d6-bed3-eaffb0bac5f1</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ddt csv tc</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>957a20e1-a229-4119-b897-0c2ca3c37a24</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3d77b313-4208-437e-9a94-65d688429a14</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3d77b313-4208-437e-9a94-65d688429a14</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+</TestCaseEntity>

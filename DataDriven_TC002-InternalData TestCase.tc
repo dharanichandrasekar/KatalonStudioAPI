@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DataDriven_TC002-InternalData TestCase</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>734aa0f9-18a6-421c-b001-b839825048a6</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>69363410-c47e-458e-921c-f6107a309144</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>69363410-c47e-458e-921c-f6107a309144</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+</TestCaseEntity>

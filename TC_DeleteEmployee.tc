@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_DeleteEmployee</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>af3d1af6-0604-4abf-b8a9-4caceb7e756b</testCaseGuid>
+</TestCaseEntity>
